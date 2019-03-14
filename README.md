@@ -27,7 +27,7 @@ To link the Blockchain Security 2Go smart cards to a Blockchain, you need a devi
 Try out your cards with the example android app developed by [coinfinity](https://coinfinity.co/about/) that is availble on [PlayStore](https://play.google.com/store/apps/details?id=co.coinfinity.infineonandroidapp):
 <p><img src="doc/pictures/playstore_qrcode_small.png"></p>
 
-The [Android Demo User Guide](Android_Demo_UserGuide.pdf) provides more details on how to use the app. The code is available as open source at https://github.com/Infineon/BlockchainSecurity2Go-Android.
+The [Android Demo User Guide](android/Android_Demo_UserGuide.pdf) provides more details on how to use the app. The code is available as open source at https://github.com/Infineon/BlockchainSecurity2Go-Android.
 
 ### Getting Started with PC, RasperryPi and Co
 The BlockSec2Go Python library gives you an easy way to use your cards with an Windows, Linux, or Mac device. Follow the steps of the getting started guide at the https://github.com/Infineon/BlockchainSecurity2Go-Python-Library. 
@@ -76,7 +76,7 @@ The Blockchain Security 2Go starter kit supports the majority of todays existing
 Systems that do not use traditional asymmetric cryptography such as IOTA are not supported.
 
 ### What happens if I lose a Blockchain Security 2Go card?
-If PIN authentication is enabled, it could prevent that somebdoy else uses your card without knowing the PIN. If you have no backup, you have no access to the assets that correspond to the keys on the card. To prevent this you could generate backups as described in the [User Manual](BlockchainSecurity2Go_UserManual.pdf).
+If PIN authentication is enabled, it could prevent that somebdoy else uses your card without knowing the PIN. If you have no backup, you have no access to the assets that correspond to the keys on the card. To prevent this you could generate backups as described in the [User Manual](doc/BlockchainSecurity2Go_UserManual.pdf).
 
 ### I want another form factor or interface, what should I do?
 Please directly contact the customer support of Infineon Technologies AG. They will be glad to support you.
