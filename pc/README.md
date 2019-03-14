@@ -9,5 +9,5 @@ The easiest way is to use Python with the Blockchain Security 2Go library. It in
 ## Other Programming Languages
 We recommend to use the MUSCLE library for low-level PC/SC (PC to Smart Card) communication. For more information see the [MUSCLE website](https://muscle.apdu.fr/) and the [MUSCLE github project](https://github.com/LudovicRousseau/PCSC). Examples of how to integrate this middleware in different programming languages such as C, Java, JavaScript, PHP, and Go are available in the [Blog of Ludovic Rousseau](https://ludovicrousseau.blogspot.com/2010/04/pcsc-sample-in-different-languages.html)
 
-## RasperryPi Setup
-To setup a contactless reader and the Python libary on a RasperryPi follow the steps as described [here](howto_raspi.md).
+<!-- ## RasperryPi Setup
+To setup a contactless reader and the Python libary on a RasperryPi follow the steps as described [here](howto_raspi.md). -->

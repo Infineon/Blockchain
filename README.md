@@ -27,10 +27,10 @@ To link the Blockchain Security 2Go smart cards to a Blockchain, you need a devi
 Try out your cards with the example android app developed by [coinfinity](https://coinfinity.co/about/) that is availble on [PlayStore](https://play.google.com/store/apps/details?id=co.coinfinity.infineonandroidapp):
 <p><img src="doc/pictures/playstore_qrcode_small.png"></p>
 
-The [Android Demo User Guide](Android_Demo_UserGuide.pdf) provides more details on how to use the app. The code is available as open source at https://github.com/Infineon/BlockchainSecurity2GoAndroid.
+The [Android Demo User Guide](Android_Demo_UserGuide.pdf) provides more details on how to use the app. The code is available as open source at https://github.com/Infineon/BlockchainSecurity2Go-Android.
 
 ### Getting Started with PC, RasperryPi and Co
-The BlockSec2Go Python library gives you an easy way to use your cards with an Windowx, Linux, or Mac device. Follow the steps of the getting started guide at the https://github.com/Infineon/Blockchain2GoPythonLib. 
+The BlockSec2Go Python library gives you an easy way to use your cards with an Windows, Linux, or Mac device. Follow the steps of the getting started guide at the https://github.com/Infineon/BlockchainSecurity2Go-Python-Library. 
 
 ## Develop your Own Blockchain Security 2Go Application
 To develop your own Blockchain Security 2Go Application first read the [Blockchain Security 2Go User Manual](doc/BlockchainSecurity2Go_UserManual.pdf). It contains a description of all commands that are supported as well as an introduction of how to integrate them in a Blockchain application.  
@@ -44,12 +44,12 @@ To link the Blockchain Security 2Go starter kit to the chosen Blockchain, you ne
 When starting to realize your own idea
 * read the [Blockchain Security 2Go User Manual](BlockchainSecurity2Go_UserManual.pdf) (It contains an API description, as well as an introduction of how to integrate it in a Blockchain-based system) and either have a look at 
 * the [Coinfinity Reference Android App](#android-application), or
-* the [supporting libraries for PC-like systems (Windows, Linux or Mac)](#pc)
+* the [supporting libraries for PC-like systems (Windows, Linux or Mac)](pc)
 
 If you want some inspiration to get an idea how to use the Blockchain Security 2Go starter kit have a look at the existing [application examples](doc/known_applications.md) or just pick an idea listed in the [new application ideas list](doc/new_application_ideas.md). 
 
 ### Android Application
-The example app demonstrates the use of the Blockchain Security 2Go starter kit in NFC-enabled Android phones. The source code is open source and available at https://github.com/Infineon/BlockchainSecurity2GoAndroid. 
+The example app demonstrates the use of the Blockchain Security 2Go starter kit in NFC-enabled Android phones. The source code is open source and available at https://github.com/Infineon/BlockchainSecurity2Go-Android. 
 
 The application demonstrates
 * sending and receiving Ethereum tokens (ETH),
@@ -63,7 +63,7 @@ More information is available in the [android folder](android).
 For PC platforms you need a contactless reader. We recommand a USB reader listed at [ccid.apdu.fr](https://ccid.apdu.fr/select_readers/?features=contactless). The Blockchain Security 2Go smart cards are tested with the Identive Cloud 4700 F reader. 
 
 A fast way to start is to use the Blockchain Security 2Go Python library. It includes a command line tool as well as an easy-to-use python library. A getting started guide for the library as well as the source code is available at the
-https://github.com/Infineon/Blockchain2GoPythonLib. 
+https://github.com/Infineon/BlockchainSecurity2Go-Python-Library. 
 
 If you want to use another language have a look at the [MUSCLE libary](https://github.com/LudovicRousseau/PCSC). 
 
