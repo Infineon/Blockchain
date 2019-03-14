@@ -42,7 +42,7 @@ To create an own Blockchain Security 2Go application you basically need two thin
 To link the Blockchain Security 2Go starter kit to the chosen Blockchain, you need some interface device (e.g. NFC-enabled smartphone or a host device such as a PC, or embedded device equiped with a contactless reader). The main business logic of your application can be reallized in a software application that runs on such an interface device and, optionally, a smart-contract deployed on your chosen Blockchain. 
 
 When starting to realize your own idea
-* read the [Blockchain Security 2Go User Manual](BlockchainSecurity2Go_UserManual.pdf) (It contains an API description, as well as an introduction of how to integrate it in a Blockchain-based system) and either have a look at 
+* read the [Blockchain Security 2Go User Manual](doc/BlockchainSecurity2Go_UserManual.pdf) (It contains an API description, as well as an introduction of how to integrate it in a Blockchain-based system) and either have a look at 
 * the [Coinfinity Reference Android App](#android-application), or
 * the [supporting libraries for PC-like systems (Windows, Linux or Mac)](pc)
 
