@@ -1,7 +1,7 @@
 # Blockchain Security 2Go and Android
 
 The example Android app can serve as a starting point when developing your own app. 
-The code is available at [BlockchainSecurity2GoAndroid github repository](https://github.com/Infineon/TODO). 
+The code is available at [BlockchainSecurity2GoAndroid github repository](https://github.com/Infineon/BlockchainSecurity2Go-Android). 
 
 You find the pre-compiled version on Google [PlayStore](https://play.google.com/store/apps/details?id=co.coinfinity.infineonandroidapp):
 
