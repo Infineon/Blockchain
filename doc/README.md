@@ -1,6 +1,6 @@
 # Blockchain Security 2Go Documentation
 
-* [User Manual](BlockchainSecurity2Go_UserManual): gives you details about the Blockchain Security 2Go starter kit
+* [User Manual](BlockchainSecurity2Go_UserManual.pdf): gives you details about the Blockchain Security 2Go starter kit
   * API Description
   * Usage Example
   * Description how to use it
