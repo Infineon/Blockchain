@@ -8,7 +8,7 @@ Infineon’s Blockchain Security 2Go starter kit provides protection of user cre
 
 <!-- If you don't have the starter kit yet, you can order it [here](https://providelinkhere.com). -->
 
-High-level information about the Starterkit is availble at [infineon.com/blockchain](https://infineon.com/blockchain). 
+High-level information about the Starterkit is availble at [infineon.com/blockchain](https://www.infineon.com/blockchain). 
 
 If you have technical questions or you want to see a new feature of the starter kit please create an issue.
 
