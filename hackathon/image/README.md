@@ -6,7 +6,7 @@ Blockchain identity verification using zero knowledge proofs: https://github.com
 
 ## Physical Cryptokitties
 
-## Geocashing
+## Document certification - Proof of existance
 
 ## Streaming: "Ka Göd, ka Musi"
 
