@@ -9,7 +9,7 @@ Within this example the service "proofofexistence" for bitcoin was used to gener
 
 
 ## BeerDentity
-Blockchain identity verification using zero knowledge proofs: https://github.com/rekt0x/infineon_hackathon_2019
+Blockchain identity verification using zero knowledge proofs: https://github.com/rekt0x/infineon_hackathon_2019 <br/>
 Usecase: The Infineon's Blockchain Security 2Go Starter Kit is used to store identity tokens using zero knowledge proofs in order to perform age verification without revealing any personal data. An user needs to go to a local authority with his hardware wallet smart card. The authority created a proof that the person is older than 18 years and issues an Identity Token to the users wallet. The user can then use the hardware wallet smart card at various locations to proof he is old enough to use certain services without revealing his real age or birthday to the 3rd party.
 
 ## Physical representation of "Cryptokitties"
