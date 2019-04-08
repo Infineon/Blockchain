@@ -1,6 +1,6 @@
 ﻿# Hackathon 2019
 
-## Document certification - Proof of existance
+## Document certification - Proof of existence
 Due to the Blockchain technology there are more and more virtual notary services available. (https://proofofexistence.com/, https://stampery.com/, https://poex.io/, https://chainy.info/…) With these services you are able to write data (e.g. a hash of a document) to the blockchain. The private key that was used to generate the transaction message allows you to proof the ownership, the existence but also the integrity of any kind of data without relying on trusted third parties. The service is also often used to proof that a specific recipient read your email at a certain point in time. A physical token, representing ownership of the data, maybe embedded in a real contract etc., does make sense.
 
 <p align="center"><img src="pictures/proofofexistence.jpg" width="50%" align="middle"></p>
