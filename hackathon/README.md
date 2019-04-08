@@ -31,7 +31,11 @@ Moses Alldub: https://etherscan.io/tx/0x382532902ccf948738a2ca9e6c5c3d4e47c881d1
 ## Guardian Card
 
 ## Bitcoin Bounty Vendingmachine
-![](pictures/vendingmachine.gif)
+
+<p align="center">
+  <img src="pictures/vendingmachine.giff">
+</p>
+
 
 
 
