@@ -32,7 +32,7 @@ Moses Alldub: https://etherscan.io/tx/0x382532902ccf948738a2ca9e6c5c3d4e47c881d1
 
 ## Bitcoin Bounty Vendingmachine
 
-<p align="center"><![](pictures/vendingmachine.gif)></p>
+<p align="center">![](pictures/vendingmachine.gif)</p>
 
 
 
