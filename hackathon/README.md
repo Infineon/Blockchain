@@ -5,7 +5,7 @@ Due to the Blockchain technology there are more and more virtual notary services
 
 <p align="center"><img src="pictures/proofofexistence.jpg" width="40%" align="middle"></p>
 
-Within this example the service proofofexistence for bitcoin was used to generate a transaction with the DOCPROOF attribute of the bitcoin network: https://www.blockchain.com/btc/tx/51bf2164bdf67e2a4fcf216dc2ec9f11778d177c58c2be9db6a8f017c996e95a
+Within this example the service "proofofexistence" for bitcoin was used to generate a transaction with the DOCPROOF attribute for the bitcoin network: https://www.blockchain.com/btc/tx/51bf2164bdf67e2a4fcf216dc2ec9f11778d177c58c2be9db6a8f017c996e95a
 
 
 ## BeerDentity
