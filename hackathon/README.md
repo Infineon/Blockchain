@@ -1,5 +1,7 @@
 ﻿# Hackathon 2019
 
+## Document certification - Proof of existance
+
 ## BeerDentity
 
 Blockchain identity verification using zero knowledge proofs: https://github.com/rekt0x/infineon_hackathon_2019
@@ -17,7 +19,6 @@ Lulu Scootchrum: https://etherscan.io/tx/0x147dcc8b343e7476a801bfac86337c5b7c34e
 Moses Alldub: https://etherscan.io/tx/0x382532902ccf948738a2ca9e6c5c3d4e47c881d1e797855aa400ad3259750b47 <br/>
 
 
-## Document certification - Proof of existance
 
 ## Streaming: "Ka Göd, ka Musi"
 
