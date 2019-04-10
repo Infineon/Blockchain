@@ -42,11 +42,7 @@ A vending machine is a nice example to showcase the cryptocurrency application: 
 
 <p align="center">
 <img src="pictures/vendingmachine_how.jpeg" width="40%" align="middle">
-<img src="pictures/vendingmachine3.png" width="40%" align="middle">
-</p>
-
-<p align="center">
-  <img src="pictures/vendingmachine.gif" width="60%" align="middle">
+<img src="pictures/vendingmachine.gif" width="60%" align="middle">
 </p>
 
 
