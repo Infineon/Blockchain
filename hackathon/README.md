@@ -7,16 +7,16 @@ English: "No money, no music". lab10 managed to stream (in its semantic closest 
   <img src="pictures/kagoedkamusi.gif" width="60%" align="middle">
 </p>
 
+## BeerDentity
+Blockchain identity verification using zero knowledge proofs: https://github.com/rekt0x/infineon_hackathon_2019 <br/>
+Usecase: The Infineon's Blockchain Security 2Go Starter Kit is used to store identity tokens using zero knowledge proofs in order to perform age verification without revealing any personal data. An user needs to go to a local authority with his hardware wallet smart card. The authority created a proof that the person is older than 18 years and issues an Identity Token to the users wallet. The user can then use the hardware wallet smart card at various locations to proof he is old enough to use certain services without revealing his real age or birthday to the 3rd party.
+
 ## Guardian Card
 A novel social recovery scheme based on multi signature and smart contracts: https://github.com/lab10-coop/kgkm-power-switcher
 <p align="center">
 <img src="pictures/guardiancardconcept.PNG" width="60%">
 <img src="pictures/guardiancard.PNG" width="20%" > 
 </p>
-
-## BeerDentity
-Blockchain identity verification using zero knowledge proofs: https://github.com/rekt0x/infineon_hackathon_2019 <br/>
-Usecase: The Infineon's Blockchain Security 2Go Starter Kit is used to store identity tokens using zero knowledge proofs in order to perform age verification without revealing any personal data. An user needs to go to a local authority with his hardware wallet smart card. The authority created a proof that the person is older than 18 years and issues an Identity Token to the users wallet. The user can then use the hardware wallet smart card at various locations to proof he is old enough to use certain services without revealing his real age or birthday to the 3rd party.
 
 ## Document certification - Proof of existence
 Due to the Blockchain technology there are more and more virtual notary services available: https://proofofexistence.com/, https://stampery.com/, https://poex.io/, https://chainy.info/ etc. With these services you are able to write data (e.g. a hash of a document) to the blockchain. The private key that was used to generate the transaction message allows you to proof the ownership, the existence but also the integrity of any kind of data without relying on trusted third parties. The service is also often used to proof that a specific recipient read your email at a certain point in time. A physical token, representing ownership of the data, maybe embedded in a real contract etc., does make sense.
