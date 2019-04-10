@@ -39,7 +39,7 @@ Moses Alldub: https://etherscan.io/tx/0x382532902ccf948738a2ca9e6c5c3d4e47c881d1
 A vending machine is a nice example to showcase the cryptocurrency application: In this case the Blockchain Security 2Go Starter Kit is used to pay directly the vending machine in order to get a snack. Due to the machine to machine payment (without any trusted 3rd party or middleman) the vending machine now owns some cryptocurrency. As a result the vending machine could order new supply for its own when it is empty. Furthermore - imagine - why should anyone pay for the energy the vending machine is consuming? Certainly the vending machine should do it for its own ;)
 
 <p align="center">
-<img src="pictures/vendingmachine_how.jpeg" width="35%" > 
+<img src="pictures/vendingmachine_how.jpeg" width="45%" > 
 <img src="pictures/vendingmachine.gif" width="50%">
 </p>
 
