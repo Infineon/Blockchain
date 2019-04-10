@@ -12,7 +12,7 @@ Blockchain identity verification using zero knowledge proofs: https://github.com
 Usecase: The Infineon's Blockchain Security 2Go Starter Kit is used to store identity tokens using zero knowledge proofs in order to perform age verification without revealing any personal data. An user needs to go to a local authority with his hardware wallet smart card. The authority created a proof that the person is older than 18 years and issues an Identity Token to the users wallet. The user can then use the hardware wallet smart card at various locations to proof he is old enough to use certain services without revealing his real age or birthday to the 3rd party.
 
 ## Guardian Card
-A novel social recovery scheme based on multi signature and smart contracts: https://github.com/lab10-coop/kgkm-power-switcher
+A novel social recovery scheme based on multi signature and smart contracts in combination with the Blockchain Security 2Go Starter Kit: https://github.com/lab10-coop/kgkm-power-switcher
 <p align="center">
 <img src="pictures/guardiancardconcept.PNG" width="60%">
 <img src="pictures/guardiancard.PNG" width="20%" > 
