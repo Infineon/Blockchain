@@ -8,7 +8,11 @@ English: "No money, no music". lab10 managed to stream (in its semantic closest 
 </p>
 
 ## Guardian Card
-
+A novel social recovery scheme based on multi signature: https://github.com/lab10-coop/kgkm-power-switcher
+<p align="center">
+<img src="pictures/guardiancard.PNG" width="40%" > 
+<img src="pictures/guardiancardconcept.PNG" width="40%">
+</p>
 
 ## BeerDentity
 Blockchain identity verification using zero knowledge proofs: https://github.com/rekt0x/infineon_hackathon_2019 <br/>
