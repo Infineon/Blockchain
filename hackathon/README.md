@@ -8,10 +8,10 @@ English: "No money, no music". lab10 managed to stream (in its semantic closest 
 </p>
 
 ## Guardian Card
-A novel social recovery scheme based on multi signature: https://github.com/lab10-coop/kgkm-power-switcher
+A novel social recovery scheme based on multi signature and smart contracts: https://github.com/lab10-coop/kgkm-power-switcher
 <p align="center">
-<img src="pictures/guardiancardconcept.PNG" width="70%">
-<img src="pictures/guardiancard.PNG" width="30%" > 
+<img src="pictures/guardiancardconcept.PNG" width="60%">
+<img src="pictures/guardiancard.PNG" width="20%" > 
 </p>
 
 ## BeerDentity
