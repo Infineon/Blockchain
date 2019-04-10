@@ -7,6 +7,7 @@ English: "No money - no music". lab10 managed to stream (in its semantic closest
   <img src="pictures/kagoedkamusi.gif" width="60%" align="middle">
 </p>
 
+## Guardian Card
 
 
 ## BeerDentity
@@ -32,7 +33,6 @@ Tundra Sister: https://etherscan.io/tx/0x65e4685a53efa804e976547b83abc1fe97b572c
 Lulu Scootchrum: https://etherscan.io/tx/0x147dcc8b343e7476a801bfac86337c5b7c34e9c968e532907cf944073d269a65 <br/>
 Moses Alldub: https://etherscan.io/tx/0x382532902ccf948738a2ca9e6c5c3d4e47c881d1e797855aa400ad3259750b47 <br/>
 
-## Guardian Card
 
 
 ## Bitcoin Bounty Vendingmachine
