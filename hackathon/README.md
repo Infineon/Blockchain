@@ -1,5 +1,14 @@
 ﻿# Hackathon 2019
 
+## Streaming: "Ka Göd, ka Musi"
+English: "No money - no music" 
+lab10 managed to stream (in its semantic closest sense) “Streemable PLAY Tokens” (SPLY) as the music was playing. When the card is in touch with the NFC reader, the record player starts playing in exchange for tokens. When the card is removed, the streaming stops and so does the music. Quite rad, isn’t it? The PLAY tokens used here were minted in 2017 on Ethereum in the context of the Play4Privacy project. We moved some of them over from the Ethereum chain to the ARTIS chain, converting them into “Streemable ERC20 Tokens” in the process. All you need is on: https://github.com/lab10-coop/kgkm-nfc
+
+<p align="center">
+  <img src="pictures/kagoedkamusi.gif" width="60%" align="middle">
+</p>
+
+
 ## Document certification - Proof of existence
 Due to the Blockchain technology there are more and more virtual notary services available: https://proofofexistence.com/, https://stampery.com/, https://poex.io/, https://chainy.info/… With these services you are able to write data (e.g. a hash of a document) to the blockchain. The private key that was used to generate the transaction message allows you to proof the ownership, the existence but also the integrity of any kind of data without relying on trusted third parties. The service is also often used to proof that a specific recipient read your email at a certain point in time. A physical token, representing ownership of the data, maybe embedded in a real contract etc., does make sense.
 
@@ -26,7 +35,6 @@ Moses Alldub: https://etherscan.io/tx/0x382532902ccf948738a2ca9e6c5c3d4e47c881d1
 
 
 
-## Streaming: "Ka Göd, ka Musi"
 
 ## Guardian Card
 
