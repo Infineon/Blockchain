@@ -35,7 +35,7 @@ The Blockchain Security 2Go card represents just one of the many form factors th
 
 
 ## Physical representation of "Cryptokitties"
-With this project a physical form of the Ethereum based Cryptokitties was generated. Therefore key1 of the card was read out and converted to an Ethereum address. After that, 6 Kitties were bought at the market and transferred to the prepared and printed card. All transfers can be checked at etherscan.io.
+With this project a physical form of the Ethereum based Cryptokitties was generated. Therefore key1 of the card was read out and converted to an Ethereum address. Cryptokitties are non-fungible ERC-721 token, which allow for each entity to have specific attributes - in this case “Cattributes”. 6 Kitties were bought at the market and transferred to the prepared and printed card. All transfers can be checked at etherscan.io.
 
 <p align="center"><img src="pictures/crypotkitties.png" width="70%" align="middle"></p>
 
