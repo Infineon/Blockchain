@@ -29,7 +29,7 @@ Within this example the service "proofofexistence" for bitcoin was used to gener
 The Blockchain Security 2Go card represents just one of the many form factors that can be supported by Infineon's security controller. Certainly other form factors which are using the contactless interface are feasible too. A nice example for innovative contactless chip integration is a NFC ring.
 
 <p align="center">
-<img src="pictures/ring.png" width="37%" > 
+<img src="pictures/ring.png" width="20%" > 
 <img src="pictures/etherring.gif" width="50%">
 </p>
 
