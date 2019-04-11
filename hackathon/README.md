@@ -25,6 +25,15 @@ Due to the Blockchain technology there are more and more virtual notary services
 
 Within this example the service "proofofexistence" for bitcoin was used to generate a transaction with the DOCPROOF attribute for the bitcoin network: https://www.blockchain.com/btc/tx/51bf2164bdf67e2a4fcf216dc2ec9f11778d177c58c2be9db6a8f017c996e95a
 
+## Ethereum Ring
+The Blockchain Security 2Go card represents just one of the many form factors that can be supported by Infineon's security controller. Certainly other form factors which are using the contactless interface are feasible too. A nice example for innovative contactless chip integration is a NFC ring.
+
+<p align="center">
+<img src="pictures/ring.png" width="37%" > 
+<img src="pictures/etherring.gif" width="50%">
+</p>
+
+
 ## Physical representation of "Cryptokitties"
 With this project a physical form of the Ethereum based Cryptokitties was generated. Therefore key1 of the card was read out and converted to an Ethereum address. After that, 6 Kitties were bought at the market and transferred to the prepared and printed card. All transfers can be checked at etherscan.io.
 
