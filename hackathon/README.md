@@ -47,7 +47,6 @@ Lulu Scootchrum: https://etherscan.io/tx/0x147dcc8b343e7476a801bfac86337c5b7c34e
 Moses Alldub: https://etherscan.io/tx/0x382532902ccf948738a2ca9e6c5c3d4e47c881d1e797855aa400ad3259750b47 <br/>
 
 
-
 ## Bitcoin Bounty Vendingmachine
 A vending machine is a nice example to showcase the cryptocurrency application: In this case the Blockchain Security 2Go Starter Kit is used to pay directly the vending machine in order to get a snack. Due to the machine to machine payment (without any trusted 3rd party or middleman) the vending machine now owns some cryptocurrency. As a result the vending machine could order new supply for its own when it is empty. Furthermore - imagine - why should anyone pay for the energy the vending machine is consuming? Certainly the vending machine should do it for its own - in future.
 
