@@ -71,8 +71,7 @@ More information is available in the [pc folder](pc).
 
 ## Unboxing
 
-<iframe width="800" height="450" src="https://e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP"  frameborder="0">
-</iframe>
+<div mi24-video-player video-id="7k2xBuhwB8Xsv3C9s6oyJv" player-id="E9W5foaMoUuxrto5-fGaPP" config-type="vmpro" flash-path="//e.video-cdn.net/v2/" api-url="https://d.video-cdn.net/play"></div><script src="https://e.video-cdn.net/v2/embed.js"></script>
 
 ## FAQs
 ### Which Blockchains are supported by the Blockchain Security 2Go starter kit?
