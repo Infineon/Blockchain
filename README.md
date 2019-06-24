@@ -69,7 +69,8 @@ If you want to use another language have a look at the [MUSCLE libary](https://g
 
 More information is available in the [pc folder](pc).
 
-
+## Unboxing video
+https://e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP
 
 ## FAQs
 ### Which Blockchains are supported by the Blockchain Security 2Go starter kit?
