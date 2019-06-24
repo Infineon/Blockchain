@@ -69,6 +69,9 @@ If you want to use another language have a look at the [MUSCLE libary](https://g
 
 More information is available in the [pc folder](pc).
 
+## Unboxing
+<div mi24-video-player video-id="7k2xBuhwB8Xsv3C9s6oyJv" player-id="E9W5foaMoUuxrto5-fGaPP" config-type="vmpro" flash-path="//e.video-cdn.net/v2/" api-url="//d.video-cdn.net/play"></div><script src="//e.video-cdn.net/v2/embed.js"></script>
+
 ## FAQs
 ### Which Blockchains are supported by the Blockchain Security 2Go starter kit?
 The Blockchain Security 2Go starter kit supports the majority of todays existing Blockchains. More specifically, all blockchains that authenticate a transaction with Elliptic Curve Cryptography (ECC) based on the 'secp256k1' curve. For example, this applies to [Bitcoin](https://bitcoin.org), [Ethereum](https://www.ethereum.org/) and ERC20 tokens such as [Streamr](https://www.streamr.com/). This means for your Blockchain Security 2Go application, you can either choose such an existing Blockchain that fits your needs, or you could even create a new one. 
