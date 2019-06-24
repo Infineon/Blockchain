@@ -69,14 +69,6 @@ If you want to use another language have a look at the [MUSCLE libary](https://g
 
 More information is available in the [pc folder](pc).
 
-## Unboxing
-<object width="425" height="350">
-  <param name="movie" value="https//e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP" />
-  <param name="wmode" value="transparent" />
-  <embed src="https//e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
 
 
 ## FAQs
