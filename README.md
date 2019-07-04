@@ -72,8 +72,6 @@ More information is available in the [pc folder](pc).
 ## Unboxing video
 <p align="center"><img src="doc/pictures/unboxing.png" width="40%" align="middle"></p>
 
-<p align="center"><img src="doc/pictures/bcs2go_starterkit.png" width="40%" align="middle"></p>
-
 https://e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP
 
 ## FAQs
