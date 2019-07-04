@@ -70,12 +70,8 @@ If you want to use another language have a look at the [MUSCLE libary](https://g
 More information is available in the [pc folder](pc).
 
 ## Unboxing video
-<p align="center"><img src="doc/pictures/unboxing.PNG" width="40%" align="middle">
-<a href="https://e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP"></a>
-</p>
- 
 <p id="logo">
-<a href="https://e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP"><img src="doc/pictures/unboxing.PNG" /></a>
+<a href="https://e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP"><img src="doc/pictures/unboxing.PNG"  width="40%" align="middle"/></a>
 </p>
 
 https://e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP
