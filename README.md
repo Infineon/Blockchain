@@ -23,7 +23,7 @@ To link the Blockchain Security 2Go smart cards to a Blockchain, you need a devi
 * an NFC-enabled smartphone, or
 * a host device (e.g. PC, RasperryPi) connected to a contactless reader. 
 
-### Getting Started with a Android Smart Phone
+### Getting Started with an Android Smart Phone
 Try out your cards with the example android app developed by [coinfinity](https://coinfinity.co/about/) that is availble on [PlayStore](https://play.google.com/store/apps/details?id=co.coinfinity.infineonandroidapp):
 <p><img src="doc/pictures/playstore_qrcode_small.png"></p>
 
