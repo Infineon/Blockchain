@@ -27,7 +27,9 @@ To link the Blockchain Security 2Go smart cards to a Blockchain, you need a devi
 Try out your cards with the example android app developed by [coinfinity](https://coinfinity.co/about/) that is availble on [PlayStore](https://play.google.com/store/apps/details?id=co.coinfinity.infineonandroidapp):
 <p><img src="doc/pictures/playstore_qrcode_small.png"></p>
 
-The [Android Demo User Guide](android/Android_Demo_UserGuide.pdf) provides more details on how to use the app. The code is available as open source at https://github.com/Infineon/BlockchainSecurity2Go-Android.
+The [Android Demo User Guide](android/Android_Demo_UserGuide.pdf) provides more details on how to use the app. Have a look at the hands-on video to see how to prepare the cards for usage with the App: https://e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP
+
+The source code is available as open source at https://github.com/Infineon/BlockchainSecurity2Go-Android.
 
 ### Getting Started with PC, RasperryPi and Co
 The BlockSec2Go Python library gives you an easy way to use your cards with an Windows, Linux, or Mac device. Follow the steps of the getting started guide at the https://github.com/Infineon/BlockchainSecurity2Go-Python-Library. 
