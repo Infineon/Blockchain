@@ -31,8 +31,12 @@ The [Android Demo User Guide](android/Android_Demo_UserGuide.pdf) provides more 
 
 The source code is available as open source at https://github.com/Infineon/BlockchainSecurity2Go-Android.
 
-### Getting Started with PC, RasperryPi and Co
+### Getting Started with Windows, Linux and Mac
 The BlockSec2Go Python library gives you an easy way to use your cards with an Windows, Linux, or Mac device. Follow the steps of the getting started guide at the https://github.com/Infineon/BlockchainSecurity2Go-Python-Library. 
+
+The [Praesidium](https://github.com/DhruvKhemani/Praesidium) application is a full bitcoin wallet that offers almost all functionalities of the card in a fast and intuitive GUI. It also serves as the prime example for the Blocksec2Go library.
+
+Praesidium is completely open source and is avaliable [here](https://github.com/DhruvKhemani/Praesidium).
 
 ## Develop your Own Blockchain Security 2Go Application
 To develop your own Blockchain Security 2Go Application first read the [Blockchain Security 2Go User Manual](doc/BlockchainSecurity2Go_UserManual.pdf). It contains a description of all commands that are supported as well as an introduction of how to integrate them in a Blockchain application.  
