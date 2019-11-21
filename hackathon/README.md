@@ -1,9 +1,9 @@
-# Hackathon 13 November 2019, Villach
+# Hackathon, 13 November 2019, Villach
 ## Decentralized Networking platform "ChainMeUp"
 
 https://github.com/posseggs/ChainMeUp
 
-# Hackathon 12 May 2019, Graz
+# Hackathon 12, May 2019, Graz
 
 ## Streaming: "Ka Göd, ka Musi"
 English: "No money, no music". lab10 managed to stream (in its semantic closest sense) “Streemable PLAY Tokens” (SPLY) as the music was playing. When the card is in touch with the NFC reader, the record player starts playing in exchange for tokens. When the card is removed, the streaming stops and so does the music. Quite rad, isn’t it? The PLAY tokens used here were minted in 2017 on Ethereum in the context of the Play4Privacy project. Therefore lab10 moved some of them over from the Ethereum chain to the ARTIS chain, converting them into “Streemable ERC20 Tokens” in the process. More details? check out: https://github.com/lab10-coop/kgkm-nfc
