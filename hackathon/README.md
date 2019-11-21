@@ -1,5 +1,5 @@
 # Hackathon 2019 (13 November, Villach)
-## Streaming: "ChainMeUp"
+## Decentralized Networking platform "ChainMeUp"
 
 https://github.com/posseggs/ChainMeUp
 
