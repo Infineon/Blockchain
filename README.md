@@ -8,7 +8,7 @@ Infineon’s Blockchain Security 2Go starter kit provides protection of user cre
 
 <!-- If you don't have the starter kit yet, you can order it [here](https://providelinkhere.com). -->
 
-High-level information about the Starterkit is availble at [infineon.com/blockchain](https://www.infineon.com/blockchain). 
+High-level information about the Starterkit is available at [infineon.com/blockchain](https://www.infineon.com/blockchain). 
 
 If you have technical questions or you want to see a new feature of the starter kit please create an issue.
 
@@ -24,7 +24,7 @@ To link the Blockchain Security 2Go smart cards to a Blockchain, you need a devi
 * a host device (e.g. PC, RasperryPi) connected to a contactless reader. 
 
 ### Getting Started with an Android Smart Phone
-Try out your cards with the example android app developed by [coinfinity](https://coinfinity.co/about/) that is availble on [PlayStore](https://play.google.com/store/apps/details?id=co.coinfinity.infineonandroidapp):
+Try out your cards with the example android app developed by [coinfinity](https://coinfinity.co/about/) that is available on [PlayStore](https://play.google.com/store/apps/details?id=co.coinfinity.infineonandroidapp):
 <p><img src="doc/pictures/playstore_qrcode_small.png"></p>
 
 The [Android Demo User Guide](android/Android_Demo_UserGuide.pdf) provides more details on how to use the app. Have a look at the hands-on video to see how to prepare the cards for usage with the App: https://e.video-cdn.net/video?video-id=7k2xBuhwB8Xsv3C9s6oyJv&player-id=E9W5foaMoUuxrto5-fGaPP
