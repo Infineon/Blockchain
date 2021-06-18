@@ -34,6 +34,10 @@ The source code is available as open source at https://github.com/Infineon/Block
 ### Getting Started with an iPhone
 With the following example the usage of the Blockchain Security 2Go smart cards in combination with an iPhone is described. Here, the basic functions are demonstrated ond iOS but no wallet application is provided (for this check out the Android example). The source code for iOS is available https://github.com/Infineon/BlockchainSecurity2Go-iOS
 
+### Bridging Hardware Wallet and Web Application
+This repository contains an Android app and a web server to showcase the interaction of hardware wallets (commonly known as a cold wallet) and Ethereum network.
+The source code is available at https://github.com/Infineon/blockchain-wallet-and-webapp.
+
 ### Getting Started with Windows, Linux and Mac
 The BlockSec2Go Python library gives you an easy way to use your cards with an Windows, Linux, or Mac device. Follow the steps of the getting started guide at the https://github.com/Infineon/BlockchainSecurity2Go-Python-Library. 
 
